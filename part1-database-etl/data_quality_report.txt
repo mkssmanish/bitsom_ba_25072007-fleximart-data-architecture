@@ -1,0 +1,9 @@
+Customers extracted: 26
+Products extracted: 20
+Sales extracted: 41
+Customers after cleaning: 20
+Products after cleaning: 20
+Sales after cleaning: 35
+Customers loaded: 20
+Products loaded: 20
+ETL pipeline completed successfully
